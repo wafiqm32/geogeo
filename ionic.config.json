@@ -1,0 +1,7 @@
+{
+  "name": "geogeo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
